@@ -1,0 +1,9 @@
+{
+  "name": "forest-router",
+  "version": "0.0.0",
+  "description": "Effective routing for forest render engine",
+  "main": "dist/index.js",
+  "repository": "https://github.com/github:sergeysova/forest-router",
+  "license": "MIT",
+  "author": "Sergey Sova <mail@sergeysova.com> (https://sova.dev)"
+}
